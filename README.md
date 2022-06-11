@@ -11,7 +11,7 @@ Project_Objective
 AS a DBA expert,we need to focus on identifying the regular customers to provide offers, analyze the busiest route which helps to increase the number of aircraft required and prepare an analysis to determine the ticket sales details. This will ensure that the company improves its operability and becomes more customer-centric and a favorable choice for air travel.
 
 
-Data Description 
+Data Description:
 
 
 1) Customer: Contains the information of customers
@@ -25,6 +25,7 @@ Data Description
 •	date of birth - Date of birth of the customer
 
 •	gender - Gender of the customer
+
 
 
 2) passengers_on_flights: Contains information about the travel details
@@ -48,6 +49,7 @@ Data Description
 •	flight num - Specific flight number for each route
 
 
+
 3) ticket_details: Contains information about the ticket details
 
 •	p date - Ticket purchase date
@@ -65,6 +67,7 @@ Data Description
 •	price_per ticket - Price of a ticket
 
 •	brand - Aviation service provider for each aircraft
+
 
 
 4) routes: Contains information about the route details
