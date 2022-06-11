@@ -14,8 +14,8 @@ AS a DBA expert,we need to focus on identifying the regular customers to provide
 Data Description 
 
 
-Customer: Contains the information of customers
-
+1) Customer: Contains the information of customers
+ 
 •	customer id - ID of the customer
 
 •	first name - First name of the customer
@@ -27,7 +27,7 @@ Customer: Contains the information of customers
 •	gender - Gender of the customer
 
 
-passengers_on_flights: Contains information about the travel details
+2) passengers_on_flights: Contains information about the travel details
 
 •	aircraft id - ID of each aircraft in a brand
 
@@ -48,7 +48,7 @@ passengers_on_flights: Contains information about the travel details
 •	flight num - Specific flight number for each route
 
 
-ticket_details: Contains information about the ticket details
+3) ticket_details: Contains information about the ticket details
 
 •	p date - Ticket purchase date
 
@@ -67,7 +67,7 @@ ticket_details: Contains information about the ticket details
 •	brand - Aviation service provider for each aircraft
 
 
-routes: Contains information about the route details
+4) routes: Contains information about the route details
 
 •	Route id - Route ID of from and to location
 
