@@ -15,38 +15,69 @@ Data Description
 
 
 Customer: Contains the information of customers
+
 •	customer id - ID of the customer
+
 •	first name - First name of the customer
+
 •	last name - Last name of the customer
+
 •	date of birth - Date of birth of the customer
+
 •	gender - Gender of the customer
 
+
 passengers_on_flights: Contains information about the travel details
+
 •	aircraft id - ID of each aircraft in a brand
+
 •	route id - Route ID of from and to location
+
 •	customer id - ID of the customer
+
 •	depart - Departure place from the airport
+
 •	arrival - Arrival place in the airport
+
 •	seat num - Unique seat number for each passenger
+
 •	class id - ID of travel class
+
 •	travel date - Travel date of each passenger
+
 •	flight num - Specific flight number for each route
 
+
 ticket_details: Contains information about the ticket details
+
 •	p date - Ticket purchase date
+
 •	customer id - ID of the customer
+
 •	aircraft id - ID of each aircraft in a brand
+
 •	class id - ID of travel class
+
 •	no of tickets - Number of tickets purchased
+
 •	a code - Code of each airport
+
 •	price_per ticket - Price of a ticket
+
 •	brand - Aviation service provider for each aircraft
 
+
 routes: Contains information about the route details
+
 •	Route id - Route ID of from and to location
+
 •	Flight num - Specific fight number for each route
+
 •	Origin airport - Departure location
+
 •	Destination airport - Arrival location
+
 •	Aircraft id - ID of each aircraft in a brand
+
 •	Distance miles - Distance between departure and arrival location
 
