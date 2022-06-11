@@ -85,5 +85,7 @@ Data Description:
 •	Distance miles - Distance between departure and arrival location
 
 
+
+
 Here, the given data was in Excel, so we imported that to SQL and created a database and analyzed and wrote queries for some of the various specific information from which Air Cargo can get clear insights of their company.
 
